@@ -1,4 +1,4 @@
-Heart shape Detection script
+## Heart shape Detection script
 First of all open python termianl run the following command
 
 pip install -r requirement.txt
